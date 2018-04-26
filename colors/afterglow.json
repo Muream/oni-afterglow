@@ -1,0 +1,50 @@
+{
+    "name": "afterglow",
+    "baseVimTheme": "afterglow",
+    "colors": {
+        "background": "#222222",
+        "foreground": "#d6d6d6",
+
+        "title.background": "#232323",
+        "title.foreground": "#d6d6d6",
+
+        "editor.background": "#272727",
+        "editor.foreground": "#DCDCDC",
+
+        "tabs.background": "#272727",
+        "tabs.foreground": "#d6d6d6",
+
+        "toolTip.background": "#272727",
+        "toolTip.foreground": "#d6d6d6",
+        "toolTip.border": "#272727",
+
+        "menu.background": "#272727",
+        "menu.foreground": "#d6d6d6",
+        "menu.border": "#5a647e",
+
+        "contextMenu.background": "#272727",
+        "contextMenu.foreground": "#ABB2BF",
+        "contextMenu.border": "#505050",
+        "contextMenu.highlight": "#3F4652",
+
+        "sidebar.background": "#272727",
+        "sidebar.foreground": "#ABB2BF",
+        "sidebar.active.background": "#333333",
+        "sidebar.selection.border": "#6c99bb",
+
+        "statusBar.background": "#272727",
+        "statusBar.foreground": "#c8c8c8",
+
+        "highlight.mode.insert.background": "#b4c973",
+        "highlight.mode.insert.foreground": "#282c34",
+
+        "highlight.mode.normal.background": "#6c99bb",
+        "highlight.mode.normal.foreground": "#282c34",
+
+        "highlight.mode.operator.background": "#e87d3e",
+        "highlight.mode.operator.foreground": "#282c34",
+
+        "highlight.mode.visual.background": "#9e86c8",
+        "highlight.mode.visual.foreground": "#282c34"
+    }
+}
